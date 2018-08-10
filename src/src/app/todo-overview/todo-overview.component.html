@@ -1,0 +1,7 @@
+<p class="text-right">
+  <span class="badge badge-info">
+    Last Update: {{ (lastUpdate | async) | date:'mediumTime' }} | Total items: {{ (todos | async).length }}
+  </span>
+</p>
+
+<button class="btn btn-outline-primary btn-sm" (click)="clearTodos()">Delete All</button>
