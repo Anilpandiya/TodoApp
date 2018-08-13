@@ -5,11 +5,11 @@ Have a Tour : https://todo-redux-angular.stackblitz.io
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
-![alt text](http://prntscr.com/kh2p2z)
+![alt text](https://pasteboard.co/HyWkhFj.png)
 
 At the beginning of your day -
 
-![alt text](http://prntscr.com/kh2ped)
+![alt text](https://pasteboard.co/HyWkCqp.png)
 
 ## Development server
 
