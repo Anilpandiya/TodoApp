@@ -1,5 +1,6 @@
 To-Do is the easiest way to get stuff done, every day. This app is build using Angular & Redux. 
-Have a Tour : https://todo-redux-angular.stackblitz.io
+
+[Have a tour on StackBlitz](https://todo-redux-angular.stackblitz.io)
 
 # todo-redux-angular
 
