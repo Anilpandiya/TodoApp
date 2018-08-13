@@ -5,7 +5,7 @@ Have a Tour : https://todo-redux-angular.stackblitz.io
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
-![text](https://pasteboard.co/HyWkhFj.png)
+![text](http://i66.tinypic.com/vigyno.png)
 
 At the beginning of your day -
 
