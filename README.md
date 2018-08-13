@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![text](http://i66.tinypic.com/vigyno.png)
 
-At the beginning of your day -
+Begin your day in an organize way  -
 
 ![alt text](http://i64.tinypic.com/72c2kp.png)
 
