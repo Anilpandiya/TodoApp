@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 At the beginning of your day -
 
-![alt text](https://pasteboard.co/HyWkCqp.png)
+![alt text](http://i64.tinypic.com/72c2kp.png)
 
 ## Development server
 
